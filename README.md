@@ -34,5 +34,5 @@
 
 1. คัดลอกไฟล์โปรเจกต์ไปยังโฟลเดอร์ `htdocs` ใน XAMPP.
 2. เปิด website ที่ http://localhost/roombook/login.php
-   Username = admin
-   Password = admin
+Username = admin
+Password = admin
