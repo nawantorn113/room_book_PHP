@@ -33,7 +33,13 @@
 ### การติดตั้งโปรเจกต์
 
 1. คัดลอกไฟล์โปรเจกต์ไปยังโฟลเดอร์ `htdocs` ใน XAMPP.
-2. เปิด website ที่ http://localhost/roombook/login.php
-   
-- 'Username = admin'
-- 'Password = admin'
+2. เปิดเว็บไซต์ที่ `http://localhost/roombook/login.php`.
+
+## เข้าสู่ระบบสำหรับผู้ดูแลระบบ
+
+- **Username:** admin
+- **Password:** admin
+
+## ติดต่อ
+
+หากมีคำถามหรือข้อเสนอแนะเพิ่มเติม ติดต่อผู้พัฒนาได้ที่ [onochayama30@gmail.com](mailto:onochayama30@gmail.com).
